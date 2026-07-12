@@ -17,10 +17,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandans5&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandans5&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <i>"Stay curious. Stay secure."</i>
