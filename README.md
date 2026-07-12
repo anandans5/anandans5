@@ -1,84 +1,34 @@
-## Hi there 👋
-
-# Hi there 👋, I'm Anandan
-
-## 🛡️ Cybersecurity Student | 📊 Data Science Student
-
-I'm a B.Sc. student specializing in **Cybersecurity** and **Data Science**. I'm passionate about understanding how computer systems work, identifying security vulnerabilities, and continuously learning through hands-on practice and personal projects.
-
-## 🌱 Currently Learning
-
-* Cybersecurity Fundamentals
-* Networking
-* Linux
-* Python Programming
-* Web Security
-* Bug Bounty Methodology
-* Data Science Fundamentals
-
-## 🛠️ Skills
-
-**Programming**
-
-* Python
-* SQL
-* HTML
-* CSS
-
-**Cybersecurity**
-
-* Linux
-* Networking
-* Burp Suite
-* Nmap
-* Wireshark
-* OWASP Top 10 (Learning)
-
-**Data Science**
-
-* Pandas
-* NumPy
-* Matplotlib
-* Jupyter Notebook
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-
-## 🎯 Goals
-
-* Build a strong cybersecurity portfolio.
-* Learn ethical hacking and web application security.
-* Participate in Capture The Flag (CTF) competitions.
-* Contribute to open-source projects.
-* Continue improving my programming and analytical skills.
-
-## 📂 Current Focus
-
-* Cybersecurity Labs
-* Python Projects
-* Data Analysis Projects
-* GitHub Portfolio
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Anandan</h1>
+<h3 align="center">🛡️ Cybersecurity • 📊 Data Science • 🐍 Python</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Professional;Learning+by+Building;Always+Curious,+Always+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+  <img src="https://komarev.com/ghpvc/?username=anandans5&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-> **Learning one vulnerability, one exploit, and one secure solution at a time.**
+### 👨‍💻 About Me
+
+* 🎓 B.Sc. in Cybersecurity & Data Science
+* 🌱 Currently learning Web Security, Networking & Python
+* 🔐 Interested in Ethical Hacking and Bug Bounty
+* 🚀 Building projects and improving every day
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandans5&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandans5&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <i>"Stay curious. Stay secure."</i>
+</p>
+
 
 🤝 Connect With Me
 
