@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Professional;Learning+by+Building;Always+Curious,+Always+Improving" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandans5&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
